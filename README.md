@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @workivan
 - 👀 I’m interested in math and coding
-- 🌱 I’m currently learning how to differ any figures in the image, numerical methods of analize and to be less stresful
+- 🌱 I’m currently learning java, numerical methods of analize and to be less stresful
 - 📫 you can chat me in teltegram : @workivan
 
 <!---
