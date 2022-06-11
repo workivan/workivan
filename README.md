@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @workivan
 - 👀 I’m interested in math and coding
-- 🌱 I’m currently learning java, numerical methods of analize and to be less stresful
-- 📫 you can chat me in teltegram : @workivan
+- 🌱 I’m currently learning java and to be less stresful
+- 📫 you can chat me in telegram : @workivan
 
 <!---
 workivan/workivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
